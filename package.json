@@ -1,0 +1,23 @@
+{
+  "name": "broken-greetings",
+  "version": "1.0.0",
+  "description": "Javascript kata to correct a greet function",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouadie-lahdioui/broken-greetings.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "kata"
+  ],
+  "author": "Ouadie Lahdioui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/broken-greetings/issues"
+  },
+  "homepage": "https://github.com/ouadie-lahdioui/broken-greetings#readme"
+}
